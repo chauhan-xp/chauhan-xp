@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
 <h1 align="center">Hey 👋, Nice to see you</h1>
-<!--<h3 align="center">A passionate software engineer from India</h3>-->
+<!--<h3 align="center">A passionate software engineer</h3>-->
 <p>I'm Pragati chauhan, a passionate software engineer from India. I like to invest my hours in coding and playing with errors.</p>
 <img align="right" alt="Coding" width="400" src="https://cdn.prod.website-files.com/5e0f1144930a8bc8aace526c/65d5bfa43c1e3f4eee92efd4_65ced355bb7642d3cbd8fc5c-a5c83c114fa5e7903a67ef0168f6f9d0.jpeg">
 

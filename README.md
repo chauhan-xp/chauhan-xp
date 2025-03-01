@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Software Development & Testing**
 
-- 📫 How to reach me **pragatichauhan890@gmail.com**
+- 📫 Reach me on **pragatichauhan890@gmail.com**
 
 - ⚡ Fun fact: **Tea is all-timer**
 

@@ -30,4 +30,6 @@
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chauhan-xp&show_icons=true&locale=en&layout=compact" alt="chauhan-xp" /></p> -->
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anselal)](https://github.com/chauhan-xp/github-readme-stats) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chauhan-xp" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chauhan-xp" /> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chauhan-xp&langs_count=5" /> -->
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=chauhan-xp&theme=tokyonight&langs_count=5&layout=compact&card_width=800" />
